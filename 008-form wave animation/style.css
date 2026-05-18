@@ -6,7 +6,7 @@
 
 body {
   font-family: "Muli", sans-serif;
-  background-color: steelblue;
+  background-color: rgb(158, 168, 177);
   color: #fff;
   display: flex;
   flex-direction: column;
@@ -37,7 +37,7 @@ body {
   cursor: pointer;
   display: inline-block;
   width: 100%;
-  background: lightblue;
+  background: rgb(217, 223, 135);
   padding: 15px;
   font-family: inherit;
   font-size: 16px;
