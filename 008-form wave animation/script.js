@@ -5,7 +5,7 @@ function createWaveLabel(text) {
     .split("")
     .map(
       (letter, idx) =>
-        `<span style="transition-delay:${idx * 50}ms">${letter}</span>`
+        `<span style="transition-delay:${idx * 150}ms">${letter}</span>`
     )
     .join("");
 }
